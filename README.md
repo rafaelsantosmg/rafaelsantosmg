@@ -1,10 +1,8 @@
 <div style="text-align: center">
   <h1>🎓 Oi Sou Rafael Santos</h1>
-  <hr>
   <h2>Estudante da Trybe Curso de Desenvolvimento Web e também estudante de Ciências da Computação pela Estácio.</h2>
-  <hr>
-  <br/><br/>
 </div>
+<br/><br/>
 <div align="center">
   <a href="https://github.com/rafaelsantosmg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
