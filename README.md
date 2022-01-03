@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🎓 Sou estudante da Trybe Curso de Desenvolvimento Web e também estudante de Ciências da Computação pela Estácio.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&hide=contribs,prs)
