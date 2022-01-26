@@ -1,6 +1,9 @@
 <div style="text-align: center">
   <h1>🎓 Oi Sou Rafael Santos</h1>
   <h2>Estudante da Trybe Curso de Desenvolvimento Web e também estudante de Ciências da Computação pela Estácio.</h2>
+  <p>Sou apaixonado por tecnologia e área de desenvolvimento, pró-ativo à ideá nas quais compete a equipe solucionar problemas, pró-atividades na qual se refere também na busca de qualidade do serviço, esforçado para novas atividades que sejam desconhecidas, aprendizagem rápida, dinâmico e responsável.</p>
+
+<p>Apoio qualquer atividade em grupo, e estou sempre disposto a encarar novos desafios, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas e sou uma pessoa extremamente sociável.</p>
 </div>
 <br/><br/>
 <div align="center">
