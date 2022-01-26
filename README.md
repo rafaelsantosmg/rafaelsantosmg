@@ -5,7 +5,6 @@
 
 <p>Apoio qualquer atividade em grupo, e estou sempre disposto a encarar novos desafios, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas e sou uma pessoa extremamente sociável.</p>
 </div>
-<br/><br/>
 <div align="center">
   <a href="https://github.com/rafaelsantosmg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
