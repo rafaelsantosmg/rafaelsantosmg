@@ -1,7 +1,7 @@
 <div style="text-align: center">
   <h1>🎓 Oi Sou Rafael Santos</h1>
   <h2>Estudante da Trybe Curso de Desenvolvimento Web e também estudante de Ciências da Computação pela Estácio.</h2>
-  <p>Sou apaixonado por tecnologia e área de desenvolvimento, apoio qualquer atividade em grupo, e estou sempre disposto a encarar novos desafios, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas e sou uma pessoa extremamente sociável.</p>
+  <p>Sou apaixonado por tecnologia e área de desenvolvimento, apoio qualquer atividade em grupo, e estou sempre disposto a encarar novos desafios, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.</p>
 </div>
 <div align="center">
   <a href="https://github.com/rafaelsantosmg">
