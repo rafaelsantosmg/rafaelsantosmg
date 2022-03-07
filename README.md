@@ -1,7 +1,10 @@
 <div style="text-align: center">
   <h1>🎓 Oi Sou Rafael Santos</h1>
   <h2>Estudante da Trybe Curso de Desenvolvimento Web Full Stack</h2>
-  <p>Sou apaixonado por tecnologia e área de desenvolvimento, apoio qualquer atividade em grupo, e estou sempre disposto a encarar novos desafios, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.</p>
+  <p>Sou estudante da Trybe Curso de Desenvolvimento Web Full Stack (Front-End e Back End), certificado como Dev Jr em Front-End e também estudante de Ciências da Computação 2º período pela Estácio.</p>
+<p>Sou apaixonado por tecnologia principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.</p>
+<p>Sou apaixonado por educação e culturas que engajam e impactam na vida de outras pessoas, pois acredito que com a tecnologia temos o poder de mudar e transformar o mundo.</p>
+<p>Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.</p>
 </div>
 <div align="center">
   <a href="https://github.com/rafaelsantosmg">
