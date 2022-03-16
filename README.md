@@ -21,8 +21,6 @@
   <br>
   <span><font size="5">📓 Computer Science Student at Estácio.</font></span>
   <br>
-  <span><font size="5">🏢 Software Developer at Amdocs.</font></span>
-  <br>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <br>
