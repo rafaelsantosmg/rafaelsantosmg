@@ -18,6 +18,7 @@
   <span><font size="5">🏠 Heliodora - MG 🇧🇷,</font></span>
   <br>
   <span><font size="5">📓 Web Development Student at Trybe.</font></span>
+  <br>
   <span><font size="5">📓 Computer Science Student at Estácio.</font></span>
   <br>
   <span><font size="5">🏢 Software Developer at Amdocs.</font></span>
