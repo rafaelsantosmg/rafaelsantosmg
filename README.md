@@ -16,10 +16,10 @@
   <hr>
 <br>
 <div style="display: flex; justify-content: space-around">
-  <div style="display: flex">
+  <div>
     <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg"/>
   </div>
-  <div style="display: flex">
+  <div>
     <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg"/>
   </div>
 </div>
