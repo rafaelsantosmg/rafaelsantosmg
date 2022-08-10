@@ -1,5 +1,5 @@
+<h1 style="text-align: center">🎓 Oi Sou Rafael Santos</h1>
 <div style="text-align: justify">
-  <h1 style="text-align: center">🎓 Oi Sou Rafael Santos</h1>
   <p>
     Sou Desenvolvedor Web Full Stack Junior (Front-End e Back End), certificado pela Trybe.
   </p>
