@@ -1,14 +1,14 @@
 <div style="text-align: center">
   <h1>🎓 Oi Sou Rafael Santos</h1>
-  <p>Sou estudante da Trybe Curso de Desenvolvimento Web Full Stack (Front-End e Back End), certificado em Front-End e também estudante de Ciências da Computação 3º período pela Estácio.</p>
+  <p>Sou Desenvolvedor Web Full Stack Junior (Front-End e Back End), certificado pela Trybe.</p>
 <p>Sou apaixonado por tecnologia principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.</p>
 <p>Sou apaixonado por educação e culturas que engajam e impactam na vida de outras pessoas, pois acredito que com a tecnologia temos o poder de mudar e transformar o mundo.</p>
 <p>Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.</p>
 </div>
 <div align="center">
-  <a href="https://github.com/rafaelsantosmg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsantosmg&layout=compact&langs_count=7&theme=dracula"/>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg" /></p>
 </div>
 <div style="display: inline_block"><br>
   <p>
