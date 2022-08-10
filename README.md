@@ -5,11 +5,11 @@
 <p>Sou apaixonado por educação e culturas que engajam e impactam na vida de outras pessoas, pois acredito que com a tecnologia temos o poder de mudar e transformar o mundo.</p>
 <p>Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.</p>
 </div>
-<div align="center">
+<div align="center" width="100%">
   <p>
-    <img align="center" heigth="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg" /></p>
+    <img align="left" heigth="180px" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg" /></p>
   <p>&nbsp;
-    <img align="center" heigth="180px" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg" /></p>
+    <img align="rigth" heigth="180px"  width="50%" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg" /></p>
 </div>
 <div style="display: inline_block"><br>
   <p>
