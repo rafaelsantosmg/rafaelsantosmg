@@ -6,10 +6,12 @@
 <p>Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.</p>
 </div>
 <div align="center" width="100%">
-  <p>
-    <img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg" /></p>
   <p>&nbsp;
-    <img align="rigth" height="180px"  width="40%" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg" /></p>
+    <img align="right" height="180px"  width="40%" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg" />
+  </p>
+  <p>
+    <img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg" />
+  </p>
 </div>
 <div style="display: inline_block"><br>
   <p>
