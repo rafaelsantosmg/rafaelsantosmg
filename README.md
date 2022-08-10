@@ -7,10 +7,10 @@
 </div>
 <div align="center" width="100%">
   <p>&nbsp;
-    <img align="right" height="180px"  width="40%" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg" />
+    <img align="left" height="180px"  width="40%" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula" alt="rafaelsantosmg" />
   </p>
   <p>
-    <img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg" />
+    <img align="right" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&layout=compact" alt="rafaelsantosmg" />
   </p>
 </div>
 <div style="display: inline_block"><br>
