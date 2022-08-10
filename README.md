@@ -25,7 +25,7 @@
 </div>
 <br>
   <hr>
-<div style="display: inline-block">
+<div>
   <br>
     <span><font size="3"> 😄 36 years old,</font></span>
   <br>
