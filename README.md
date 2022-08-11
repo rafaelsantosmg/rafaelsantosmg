@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**
 
 - 👯 I’m looking to collaborate on [Recipes App](https://github.com/eemr3/recipes-app)
 
