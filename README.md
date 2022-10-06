@@ -7,7 +7,7 @@
 
 - - -
 
-<p><p><img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rafaelsantosmg" /></p>
+<p><p><img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true" alt="rafaelsantosmg" /></p>
 
 <p>&nbsp;<img align="center" height="180px" width="50%" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&count_private=true" alt="rafaelsantosmg" /></p></p>
 
