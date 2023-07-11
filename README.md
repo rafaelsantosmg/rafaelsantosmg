@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael Santos</h1>
 <h3 align="center">Sou Desenvolvedor Web Full Stack Junior (Front-End e Back End), certificado pela Trybe.</h3>
+<h2>Atualmente faço parte do time de Front End da Humanoide.dev</h2>
 
 - Sou apaixonado por tecnologia principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.
 
