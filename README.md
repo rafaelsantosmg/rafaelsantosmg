@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rafael Santos</h1>
-<h3 align="center">Sou Desenvolvedor Web Full Stack Junior (Front-End e Back End), certificado pela Trybe.</h3>
+<h1 align="center">Olá 👋, Sou Rafael Santos</h1>
+<h3 align="center">Sou Desenvolvedor Web Front End</h3>
 <h2>Atualmente faço parte do time de Front End da Humanoide.dev</h2>
 
 - Sou apaixonado por tecnologia principalmente área de desenvolvimento, estou sempre disposto a encarar novos desafios e aprender novas tecnologias, adoro estar em ambientes colaborativos, com alto nível de diversidade, onde podemos nos comunicar e nos desenvolver com outras pessoas que também prezam por conexões humanas.
@@ -8,13 +8,15 @@
 
 - - -
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&theme=transparent)
+
 <p><p><img align="left" height="180px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&show_icons=true&locale=en&layout=compact&theme=dracula&count_private=true" alt="rafaelsantosmg" /></p>
 
 <p>&nbsp;<img align="center" height="180px" width="50%" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&show_icons=true&locale=en&theme=dracula&count_private=true" alt="rafaelsantosmg" /></p></p>
 
 - - -
 
-- 😄 36 years old
+- 😄 37 years old
 
 - 🏠 Heliodora - MG
 
