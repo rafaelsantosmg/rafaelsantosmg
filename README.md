@@ -36,7 +36,7 @@
 <a href="https://github.com/rafaelsantosmg/convoychat">
   <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
-- - -
+
 
 
 <div align="center">
