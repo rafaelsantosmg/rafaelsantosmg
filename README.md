@@ -7,19 +7,18 @@
 - Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.
 
 - - -
-
-<div align="left">
-  <p>- 😄 37 years old</p>
-  <p>- 🏠 Heliodora - MG</p>
-  <p>- 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery)</p>
-  <p>- 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**</p>
-  <p></p>
+  - 😄 37 years old
+    
+  - 🏠 Heliodora - MG
+    
+  - 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery
+  - 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**
+ 
   - 👯 I’m looking to collaborate on [Recipes App](https://github.com/eemr3/recipes-app)
-  <p></p>
+
   - 👨‍💻 All of my projects are available at [Portifolio](https://portfolio-rafael-santos.vercel.app/)
-  <p></p>
+
   - 💬 Ask me about **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize e TypeORM**
-</div>
 
 - - -
 <h3 align="left">Connect with me:</h3>
