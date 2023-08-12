@@ -8,31 +8,29 @@
 
 - - -
 
-<div>
-  <a href="https://github.com/rafaelsantosmg/github-readme-stats">
-    <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&theme=dracula" />
-  </a>
-  <a href="https://github.com/rafaelsantosmg/convoychat">
-    <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-  </a>
-</div>
+<a href="https://github.com/rafaelsantosmg/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&theme=dracula" />
+</a>
+<a href="https://github.com/rafaelsantosmg/convoychat">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 
 - - -
-
-- 😄 37 years old
-
-- 🏠 Heliodora - MG
-
-- 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery)
-
-- 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**
-
-- 👯 I’m looking to collaborate on [Recipes App](https://github.com/eemr3/recipes-app)
-
-- 👨‍💻 All of my projects are available at [Portifolio](https://portfolio-rafael-santos.vercel.app/)
-
-- 💬 Ask me about **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize e TypeORM**
-
+<div align="right">
+  - 😄 37 years old
+  
+  - 🏠 Heliodora - MG
+  
+  - 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery)
+  
+  - 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**
+  
+  - 👯 I’m looking to collaborate on [Recipes App](https://github.com/eemr3/recipes-app)
+  
+  - 👨‍💻 All of my projects are available at [Portifolio](https://portfolio-rafael-santos.vercel.app/)
+  
+  - 💬 Ask me about **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize e TypeORM**
+</div>
 - - -
 
 <h3 align="left">Connect with me:</h3>
