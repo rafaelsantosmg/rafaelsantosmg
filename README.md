@@ -11,13 +11,13 @@
     
   - 🏠 Heliodora - MG
     
-  - 🔭 Meu projeto de orgulho [App Delivery](https://github.com/rafaelsantosmg/app_delivery
+  - 🔭 Meu projeto de orgulho é [App Delivery](https://github.com/rafaelsantosmg/app_delivery)
     
   - 🌱 Trabalho atualmente com **ReactJS** **React-Native** **Ruby on Rails**
  
-  - 👯 Colaborei com projeto [Recipes App](https://github.com/eemr3/recipes-app)
+  - 👯 Colaborei com o projeto [Recipes App](https://github.com/eemr3/recipes-app)
 
-  - 👨‍💻 Todos meus projetos estão diponíveis em [Portifolio](https://portfolio-rafael-santos.vercel.app/)
+  - 👨‍💻 Todos meus projetos estão diponíveis no meu [Portifolio](https://portfolio-rafael-santos.vercel.app)
 
   - 💬 Falo sobre **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, TypeORM**
 
