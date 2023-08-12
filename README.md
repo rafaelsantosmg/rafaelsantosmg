@@ -17,18 +17,15 @@
 
 - - -
 <div align="right">
-  - 😄 37 years old
-  
-  - 🏠 Heliodora - MG
-  
-  - 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery)
-  
-  - 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**
-  
+  <p>- 😄 37 years old</p>
+  <p>- 🏠 Heliodora - MG</p>
+  <p>- 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery)</p>
+  <p>- 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**</p>
+  <p></p>
   - 👯 I’m looking to collaborate on [Recipes App](https://github.com/eemr3/recipes-app)
-  
+  <p></p>
   - 👨‍💻 All of my projects are available at [Portifolio](https://portfolio-rafael-santos.vercel.app/)
-  
+  <p></p>
   - 💬 Ask me about **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize e TypeORM**
 </div>
 - - -
