@@ -7,20 +7,7 @@
 - Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.
 
 - - -
-<div>
-  
-<a href="https://github.com/rafaelsantosmg/github-readme-stats">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&theme=dracula" />
-</a>
-</div>
-<div>
-  
-<a href="https://github.com/rafaelsantosmg/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
-</div>
 
-- - -
 <div align="right">
   <p>- 😄 37 years old</p>
   <p>- 🏠 Heliodora - MG</p>
@@ -33,6 +20,14 @@
   <p></p>
   - 💬 Ask me about **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize e TypeORM**
 </div>
+
+- - -
+<a href="https://github.com/rafaelsantosmg/github-readme-stats">
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=rafaelsantosmg&theme=dracula" />
+</a>
+<a href="https://github.com/rafaelsantosmg/convoychat">
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsantosmg&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+</a>
 - - -
 
 <h3 align="left">Connect with me:</h3>
