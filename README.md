@@ -7,18 +7,19 @@
 - Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.
 
 - - -
-  - 😄 37 years old
+  - 😄 37 Anos
     
   - 🏠 Heliodora - MG
     
-  - 🔭 I’m currently working on [App Delivery](https://github.com/rafaelsantosmg/app_delivery
-  - 🌱 I’m currently learning **ReactJS** **NodeJS** **TypeScript** **TypeORM** **Express** **Sequelize**
+  - 🔭 Meu projeto de orgulho [App Delivery](https://github.com/rafaelsantosmg/app_delivery
+    
+  - 🌱 Trabalho atualmente com **ReactJS** **React-Native** **Ruby on Rails**
  
-  - 👯 I’m looking to collaborate on [Recipes App](https://github.com/eemr3/recipes-app)
+  - 👯 Colaborei com projeto [Recipes App](https://github.com/eemr3/recipes-app)
 
-  - 👨‍💻 All of my projects are available at [Portifolio](https://portfolio-rafael-santos.vercel.app/)
+  - 👨‍💻 Todos meus projetos estão diponíveis em [Portifolio](https://portfolio-rafael-santos.vercel.app/)
 
-  - 💬 Ask me about **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, Sequelize e TypeORM**
+  - 💬 Falo sobre **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, TypeORM**
 
 - - -
 <h3 align="left">Connect with me:</h3>
@@ -41,6 +42,8 @@
 
 <div align="center">
   <a href="https://instagram.com/rafaelsantosdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
   <a href = "mailto:rafaelalonsobarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rafaelsantosmg&label=Profile%20views&color=0e75b6&style=flat" alt="rafaelsantosmg" /> </p>
 </div>
