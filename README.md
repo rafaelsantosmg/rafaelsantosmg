@@ -11,7 +11,7 @@
     
   - 🏠 Heliodora - MG
     
-  - 🔭 Meu projeto de orgulho é [Recipes App](https://github.com/eemr3/recipes-app)
+  - 🔭 Meu projeto de orgulho é [Full-Stack EBYTR]([https://github.com/eemr3/recipes-app](https://github.com/rafaelsantosmg/full-stack-ebytr))
     
   - 🌱 Trabalho atualmente com **ReactJS** **React-Native** **Ruby on Rails**
  
