@@ -11,7 +11,7 @@
     
   - 🏠 Heliodora - MG
     
-  - 🔭 Meu projeto de orgulho é [App Delivery](https://github.com/rafaelsantosmg/app_delivery)
+  - 🔭 Meu projeto de orgulho é [Recipes App](https://github.com/eemr3/recipes-app)
     
   - 🌱 Trabalho atualmente com **ReactJS** **React-Native** **Ruby on Rails**
  
