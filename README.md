@@ -7,19 +7,19 @@
 - Estou em busca de um ambiente colaborativo, que foque no desenvolvimento contínuo como pessoa e profissional, e que também preserve as conexões humanas.
 
 - - -
-  - 😄 37 Anos
+  - 😄 39 Anos
     
   - 🏠 Heliodora - MG
     
   - 🔭 Meu projeto de orgulho é [Full-Stack EBYTR](https://github.com/rafaelsantosmg/full-stack-ebytr)
     
-  - 🌱 Trabalho atualmente com **ReactJS** **React-Native** **Ruby on Rails**
+  - 🌱 Trabalho atualmente com **ReactJS** **React-Native** **NextJs** **Ruby on Rails** **Node** **ASP.NET**
  
   - 👯 Colaborei com o projeto [Recipes App](https://github.com/eemr3/recipes-app)
 
   - 👨‍💻 Todos meus projetos estão diponíveis no meu [Portifolio](https://portfolio-rafael-santos.vercel.app)
 
-  - 💬 Falo sobre **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, TypeORM**
+  - 💬 Falo sobre **React, Node, Express, JavaScript, TypeScript, mySQL, MongoDB, TypeORM Next PostgreSql .Net**
 
 - - -
 <h3 align="left">Connect with me:</h3>
