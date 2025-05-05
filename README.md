@@ -9,7 +9,7 @@
 - - -
   - 😄 39 Anos
     
-  - 🏠 Heliodora - MG
+  - 🏠 São Paulo - SP
     
   - 🔭 Meu projeto de orgulho é [Full-Stack EBYTR](https://github.com/rafaelsantosmg/full-stack-ebytr)
     
